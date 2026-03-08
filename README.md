@@ -19,8 +19,8 @@ https://drive.google.com/drive/folders/1NK4rZQkltF9WXqm1sCI9GsKo90eIuEZ7?usp=sha
 
 📜 프로젝트 개요
 
-MobileNetV2 기반 전이학습 모델을 이용해 16종류의 동물 얼굴 이미지를 분류하는 딥러닝 시스템을 구축했다.
-수집된 이미지 데이터를 활용해 137,000+ 학습 샘플 전처리, 데이터셋 구성, 증강(Augmentation), Fine-Tuning을 통해 모델 성능을 향상시켰다.
+MobileNetV2 기반 전이학습 모델을 이용해 6종류의 동물 얼굴 이미지를 분류하는 딥러닝 시스템을 구축했다.
+수집된 이미지 데이터를 활용해 600~700+ 학습 샘플 전처리, 데이터셋 구성, 증강(Augmentation), Fine-Tuning을 통해 모델 성능을 향상시켰다.
 Python 기반 환경(Pycharm)에서 PyQt5 Designer를 활용한 GUI 프로그램을 제작하여 사용자가 사진을 업로드하거나 웹캠을 통해 실시간으로 동물 분류 결과를 확인할 수 있도록 구현했다.
 모델 출력은 Softmax 확률을 이용해 예측 결과와 Confidence Score를 직관적으로 보여주도록 구성했다.
 
