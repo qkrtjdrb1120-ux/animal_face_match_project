@@ -14,7 +14,7 @@ Google Drive
 https://drive.google.com/drive/folders/1NK4rZQkltF9WXqm1sCI9GsKo90eIuEZ7?usp=sharing
 
 
-🐾 딥러닝 기반 16종 동물 얼굴 분류 및 닮은꼴 매칭 시스템
+🐾 딥러닝 기반 6종 동물 얼굴 분류 및 닮은꼴 매칭 시스템
 
 
 📜 프로젝트 개요
